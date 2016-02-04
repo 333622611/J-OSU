@@ -17,5 +17,17 @@
 			<index>0</index>
 			<active>true</active>
 		</docitem>
+		<docitem>
+			<path>Menu.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Splasherino.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
 	</open_files>
 </workspace_user>
